@@ -1,9 +1,0 @@
-.container {
-  max-width: 1168px;
-  margin: 0 auto;
-  padding: 0 20px;
-
-  @include onTablet {
-    padding: 0 76px 0 72px;
-  }
-}
